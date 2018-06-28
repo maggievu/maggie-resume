@@ -19,9 +19,9 @@ header {
   margin: 0;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
-  background-color: #222;
+  background-color: red;
   padding: 0;
-  color: red;
+  color: #fff;
   text-align: center;
 }
 
